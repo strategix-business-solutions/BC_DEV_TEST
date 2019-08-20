@@ -1,0 +1,24 @@
+{
+  "id": "ebddc3a8-293f-4ac1-95d1-7efc940a711b",
+  "name": "BC_DEV_TEST",
+  "publisher": "Strategix Business Solutions",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "runtime": "2.4",
+  "showMyCode": true,
+  "idRange": 
+    {
+      "from": 60000,
+      "to": 60100
+    }
+}
